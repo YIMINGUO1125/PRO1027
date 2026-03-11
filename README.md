@@ -108,10 +108,10 @@ Comme nous sommes quatre, la répartition proposée est la suivante :
 
 | Partie | Responsabilités | Responsable |
 |--------|------------------|-------------|
-| UI | `print_ui()` + `show_final_corruption()` | À compléter |
-| Play | `play()` + `get_difficulty()` + logique du jeu | À compléter |
-| Solver | `solve_with_numpy_step_by_step()` + résolution avec NumPy | À compléter |
-| Main | intégration finale + tests + rapport | À compléter |
+| UI | `print_ui()` + `show_final_corruption()` | |
+| Play | `play()` + `get_difficulty()` + logique du jeu ||
+| Solver | `solve_with_numpy_step_by_step()` + résolution avec NumPy | |
+| Main | intégration finale + tests + rapport | |
 
 ---
 
